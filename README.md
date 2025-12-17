@@ -1,4 +1,4 @@
-# <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=A970FF&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Tushti+Gupta;Data+Science+Enthusiast;Cloud+Solutions+Architect" alt="Typing SVG" /> </p>
+# <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=A970FF&center=true&vCenter=true&width=500&lines= Hi+there,+I'm+Tushti+Gupta;Data+Science+Enthusiast;Cloud+Solutions+Architect" alt="Typing SVG" /> </p>
 
 ---
 
