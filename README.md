@@ -2,6 +2,16 @@
 
 ---
 
+### 👤 About Me
+I am a results-driven professional transitioning into the world of **Data Science and Cloud Architecture**. With a strong foundation in analytical tools and cloud services, I focus on turning complex data into actionable insights and building scalable infrastructure. I am passionate about open-source contribution and continuous learning in AI/ML.
+
+- 🔭 **I’m currently working on:** Scalable Data Pipelines and Machine Learning Models.
+- 🌱 **I’m currently learning:** Advanced AWS Architecture and Deep Learning with PyTorch.
+- 👯 **I’m looking to collaborate on:** Open-source Data Science projects and Cloud Automation.
+- ⚡ **Fun fact:** I love exploring the intersection of Big Data and sustainability.
+
+---
+
 ### 💻 Technical Skills:
 
 <p align="left">
@@ -18,7 +28,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="75" height="75"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="75" height="75"/>&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="75" height="75"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="65" height="65"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="75" height="75"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="powershell" width="75" height="75"/>
 </p>
 
