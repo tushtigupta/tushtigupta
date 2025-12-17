@@ -3,22 +3,12 @@
 ---
 
 ### 👤 About Me
+I am a results-driven professional transitioning into the world of **Data Science and Cloud Architecture**. With a strong foundation in analytical tools and cloud services, I focus on turning complex data into actionable insights and building scalable infrastructure. I am passionate about open-source contribution and continuous learning in AI/ML.
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      I am a results-driven professional transitioning into the world of <b>Data Science and Cloud Architecture</b>. With a strong foundation in analytical tools and cloud services, I focus on turning complex data into actionable insights and building scalable infrastructure.
-      <br><br>
-      - 🔭 <b>Currently working on:</b> Scalable Data Pipelines & ML Models.
-      - 🌱 <b>Learning:</b> Advanced AWS Architecture & PyTorch.
-      - 👯 <b>Collaborating on:</b> Open-source Data Science projects.
-      - ⚡ <b>Fun fact:</b> I love exploring the intersection of Big Data and sustainability.
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://i.pinimg.com/736x/82/8a/92/828a92036495d4817565457a1599388a.jpg" alt="Data Science Illustration" width="100%"/>
-    </td>
-  </tr>
-</table>
+- 🔭 **I’m currently working on:** Scalable Data Pipelines and Machine Learning Models.
+- 🌱 **I’m currently learning:** Advanced AWS Architecture and Deep Learning with PyTorch.
+- 👯 **I’m looking to collaborate on:** Open-source Data Science projects and Cloud Automation.
+- ⚡ **Fun fact:** I love exploring the intersection of Big Data and sustainability.
 
 ---
 
@@ -54,6 +44,7 @@
 <p align="left">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=tushtigupta&theme=vision-friendly-dark&hide_border=true" />
 </p>
+
 
 ---
 
