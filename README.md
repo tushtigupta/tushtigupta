@@ -1,4 +1,4 @@
-# <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=A970FF&center=true&vCenter=true&width=500&lines= Hi+there,+I'm+Tushti+Gupta;Data+Science+Enthusiast;Cloud+Solutions+Architect" alt="Typing SVG" /> </p>
+# <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=A970FF&center=true&vCenter=true&width=450&lines=Hi+there,+I'm+Tushti+Gupta;Data+Science+Enthusiast;Cloud+Solutions+Architect" alt="Typing SVG" /> </p>
 
 ---
 
@@ -20,7 +20,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="75" height="75"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="75" height="75"/>&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="75" height="75"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="75" height="75"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="65" height="65"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="powershell" width="75" height="75"/>
 </p>
 
