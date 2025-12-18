@@ -3,22 +3,12 @@
 ---
 
 ### 👤 About Me
+I am a results-driven professional transitioning into the world of **Data Science and Cloud Architecture**. With a strong foundation in analytical tools and cloud services, I focus on turning complex data into actionable insights and building scalable infrastructure. I am passionate about open-source contribution and continuous learning in AI/ML.
 
-<table align="center">
-  <tr>
-    <td width="55%" valign="top">
-      I am a results-driven professional transitioning into the world of <b>Data Science and Cloud Architecture</b>. With a strong foundation in analytical tools and cloud services, I focus on turning complex data into actionable insights and building scalable infrastructure.
-      <br><br>
-      - 🔭 <b>Currently working on:</b> Scalable Data Pipelines & ML Models.
-      - 🌱 <b>Learning:</b> Advanced AWS Architecture & PyTorch.
-      - 👯 <b>Collaborating on:</b> Open-source Data Science projects.
-      - ⚡ <b>Fun fact:</b> I love exploring the intersection of Big Data and sustainability.
-    </td>
-    <td width="45%" valign="top">
-      <img src="https://i.pinimg.com/736x/82/8a/92/828a92036495d4817565457a1599388a.jpg" alt="Data Science Visual" width="100%"/>
-    </td>
-  </tr>
-</table>
+- 🔭 **I’m currently working on:** Scalable Data Pipelines and Machine Learning Models.
+- 🌱 **I’m currently learning:** Advanced AWS Architecture and Deep Learning with PyTorch.
+- 👯 **I’m looking to collaborate on:** Open-source Data Science projects and Cloud Automation.
+- ⚡ **Fun fact:** I love exploring the intersection of Big Data and sustainability.
 
 ---
 
@@ -26,24 +16,20 @@
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="75" height="75"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="powershell" width="75" height="75"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="75" height="75"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="75" height="75"/>&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="75" height="75"/>
-  <br><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="75" height="75"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="75" height="75"/>&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/google_gemini/google_gemini-icon.svg" alt="gemini" width="75" height="75"/>&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="openai" width="75" height="75"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="75" height="75"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="75" height="75"/>
-  <br><br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="75" height="75"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="75" height="75"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="keras" width="75" height="75"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="75" height="75"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="75" height="75"/>&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/scikit-learn/scikit-learn-icon.svg" alt="scikit-learn" width="75" height="75"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="75" height="75"/>
+  <br><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="75" height="75"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="75" height="75"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="75" height="75"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="75" height="75"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="75" height="75"/>&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="75" height="75"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="75" height="75"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="powershell" width="75" height="75"/>
 </p>
 
 ---
