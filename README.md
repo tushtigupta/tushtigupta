@@ -5,10 +5,10 @@
 ### 👤 About Me
 I am a results-driven professional transitioning into the world of **Data Science and Cloud Architecture**. With a strong foundation in analytical tools and cloud services, I focus on turning complex data into actionable insights and building scalable infrastructure. I am passionate about open-source contribution and continuous learning in AI/ML.
 
-- 🔭 **I’m currently working on:** Scalable Data Pipelines and Machine Learning Models.
-- 🌱 **I’m currently learning:** Advanced AWS Architecture and Deep Learning with PyTorch.
-- 👯 **I’m looking to collaborate on:** Open-source Data Science projects and Cloud Automation.
-- ⚡ **Fun fact:** I love exploring the intersection of Big Data and sustainability.
+-  **I’m currently working on:** Scalable Data Pipelines and Machine Learning Models.
+-  **I’m currently learning:** Advanced AWS Architecture and Deep Learning with PyTorch.
+-  **I’m looking to collaborate on:** Open-source Data Science projects and Cloud Automation.
+-  **Fun fact:** I love exploring the intersection of Big Data and sustainability.
 
 ---
 
