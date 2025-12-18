@@ -3,42 +3,35 @@
 ---
 
 ### 👤 About Me
+I am a results-driven professional transitioning into the world of **Data Science and Cloud Architecture**. With a strong foundation in analytical tools and cloud services, I focus on turning complex data into actionable insights and building scalable infrastructure. I am passionate about open-source contribution and continuous learning in AI/ML.
 
-<table align="center">
-  <tr>
-    <td width="55%" valign="top">
-      I am a results-driven professional transitioning into the world of <b>Data Science and Cloud Architecture</b>. With a strong foundation in analytical tools and cloud services, I focus on turning complex data into actionable insights and building scalable infrastructure.
-      <br><br>
-      - 🔭 <b>Currently working on:</b> Scalable Data Pipelines & ML Models.
-      - 🌱 <b>Learning:</b> Advanced AWS Architecture & PyTorch.
-      - 👯 <b>Collaborating on:</b> Open-source Data Science projects.
-      - ⚡ <b>Fun fact:</b> I love exploring the intersection of Big Data and sustainability.
-    </td>
-    <td width="45%" valign="top">
-      <img src="https://i.pinimg.com/736x/82/8a/92/828a92036495d4817565457a1599388a.jpg" alt="Data Science Visual" width="100%"/>
-    </td>
-  </tr>
-</table>
+- 🔭 **Currently working on:** Scalable Data Pipelines and Machine Learning Models.
+- 🌱 **Currently learning:** Advanced AWS Architecture and Deep Learning with PyTorch.
+- 👯 **Looking to collaborate on:** Open-source Data Science projects and Cloud Automation.
+- ⚡ **Fun fact:** I love exploring the intersection of Big Data and sustainability.
 
 ---
 
 ### 💻 Technical Skills:
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="75" height="75"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="75" height="75"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="75" height="75"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="keras" width="75" height="75"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="75" height="75"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="75" height="75"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="85" height="85"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="85" height="85"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="85" height="85"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="keras" width="85" height="85"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="85" height="85"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="85" height="85"/>&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="85" height="85"/>
   <br><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="75" height="75"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="75" height="75"/>&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/google_gemini/google_gemini-icon.svg" alt="gemini" width="75" height="75"/>&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="openai" width="75" height="75"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="75" height="75"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="75" height="75"/>&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="75" height="75"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="85" height="85"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="85" height="85"/>&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/google_gemini/google_gemini-icon.svg" alt="gemini" width="85" height="85"/>&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="openai" width="85" height="85"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="85" height="85"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="85" height="85"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="85" height="85"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="85" height="85"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="powershell" width="85" height="85"/>
 </p>
 
 ---
@@ -51,15 +44,9 @@
 </p>
 
 <p align="center">
-  <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=tushtigupta&theme=vision-friendly-dark&hide_border=true" />
+  <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=tushtigupta&theme=vision-friendly-dark&hide_border=true" />
 </p>
 
----
-
-### 🏆 GitHub Trophies:
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=tushtigupta&theme=darkhub&no-bg=true&margin-w=15" alt="Trophies" />
-</p>
 
 ---
 
