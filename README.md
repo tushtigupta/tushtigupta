@@ -25,7 +25,6 @@ I am a results-driven professional transitioning into the world of **Data Scienc
   <br><br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="85" height="85"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="85" height="85"/>&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/google_gemini/google_gemini-icon.svg" alt="gemini" width="85" height="85"/>&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="openai" width="85" height="85"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="85" height="85"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="85" height="85"/>&nbsp;&nbsp;
