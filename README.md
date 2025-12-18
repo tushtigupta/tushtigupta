@@ -19,6 +19,7 @@ I am a results-driven professional transitioning into the world of **Data Scienc
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="75" height="75"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="75" height="75"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="keras" width="75" height="75"/>&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/scikit-learn/scikit-learn-icon.svg" alt="scikit-learn" width="75" height="75"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="75" height="75"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="75" height="75"/>
   <br><br>
@@ -45,8 +46,8 @@ I am a results-driven professional transitioning into the world of **Data Scienc
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=tushtigupta&theme=vision-friendly-dark&hide_border=true" />
 </p>
 
-
 ---
+
 
 ### 🤝 Connect with me:
 <p align="left">
